@@ -3,6 +3,9 @@
 ## 参考サイト
 https://qiita.com/shimotaroo/items/29f7878b01ee4b99b951
 
+## URL
+http://localhost:8000/
+
 ## クローン後
 
 #### ビルド
